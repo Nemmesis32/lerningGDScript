@@ -2,16 +2,35 @@
 a try to code my own tick-based Idle Game
 
 
-Log: 27.05.2026
-Initial game loop stands 
 
-production of energy 
-reactor purchase 
-selling energy
-autosell energy 
-autoselling purchase 
+# Reactor Idle -> test Projekt
 
-tick-time is setup 
+A small tick-based idle / reactor management game made with the Godot Engine and GDScript.
 
+## Current Features
 
-a fine litte "game" that's realy basic but it works. 
+* Tick-based energy production
+* Energy storage system
+* Manual energy selling
+* Auto sellers
+* Basic upgrade system
+* Overflow / wasted energy handling
+
+## Planned Features
+
+* Research system
+* Heat simulation
+* Water cooling
+* Reactor rods
+* Grid-based reactor layout
+* Advanced automation
+* Multiple reactor types
+
+## Goal
+
+The project is focused on building a modular reactor simulation with idle-game progression and infrastructure management.
+
+## Built With
+
+* Godot Engine
+* GDScript
